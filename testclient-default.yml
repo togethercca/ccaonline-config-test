@@ -8,3 +8,4 @@ endcustomerApi:
     clientId: dev-portal
     frontendName: KundenPortal-Dev
     clientSecret: dev-portal
+version: 2
