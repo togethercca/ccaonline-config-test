@@ -1,5 +1,6 @@
 myproperty: testvalue
 endcustomerApi:
+  dummyProperty: dummyValue
   schadenmeldung:
     defaultRecipient: moritz.haslhofer@tis-cca.com
   portalFrontend:
@@ -8,4 +9,3 @@ endcustomerApi:
     clientId: dev-portal
     frontendName: KundenPortal-Dev
     clientSecret: dev-portal
-version: 2
