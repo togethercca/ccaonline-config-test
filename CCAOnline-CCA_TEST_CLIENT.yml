@@ -8,4 +8,4 @@ endcustomerApi:
     baseUrl: https://localhost/EndkundenPortal
     clientId: dev-portal
     frontendName: KundenPortal-Dev
-    clientSecret: dev-portal
+    clientSecret: dev-portal2
