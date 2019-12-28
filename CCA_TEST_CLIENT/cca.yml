@@ -1,11 +1,9 @@
 myproperty: testvalue
 endcustomerApi:
-  dummyProperty: dummyValue
-  schadenmeldung:
-    defaultRecipient: moritz.haslhofer@tis-cca.com
-  portalFrontend:
-    activationUrl: http://localhost/EndkundenPortal/activate?activationToken={activationToken}
-    baseUrl: https://localhost/EndkundenPortal
-    clientId: dev-portal
-    frontendName: KundenPortal-Dev
-    clientSecret: dev-portal-inner-yml
+  Schadenmeldung:
+    DefaultRecipient: cbcaa94f-e034-4786-9787-81803709d55e@test.com
+  PortalFrontend:
+    ActivationUrl: http://localhost/EndkundenPortal/activate?activationToken={activationToken}
+    ClientId: dev-portal
+    ClientSecret: dev-portal-inner-yml
+    FrontendName: KundenPortal-Dev
