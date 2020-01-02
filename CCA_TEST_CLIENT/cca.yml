@@ -1,5 +1,4 @@
-myproperty: testvalue
-endcustomerApi:
+EndcustomerApi:
   SchadenmeldungEmail:
     DefaultRecipient: cbcaa94f-e034-4786-9787-81803709d55e@test.com
   PortalFrontend:
