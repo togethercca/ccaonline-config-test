@@ -4,5 +4,5 @@ EndcustomerApi:
   PortalFrontend:
     ActivationUrl: http://localhost/EndkundenPortal/activate?activationToken={activationToken}
     ClientId: dev-portal
-    ClientSecret: dev-portal-inner-yml-change2
+    ClientSecret: dev-portal
     FrontendName: KundenPortal-Dev
