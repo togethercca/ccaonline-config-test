@@ -1,6 +1,6 @@
 myproperty: testvalue
 endcustomerApi:
-  Schadenmeldung:
+  SchadenmeldungEmail:
     DefaultRecipient: cbcaa94f-e034-4786-9787-81803709d55e@test.com
   PortalFrontend:
     ActivationUrl: http://localhost/EndkundenPortal/activate?activationToken={activationToken}
