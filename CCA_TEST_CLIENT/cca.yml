@@ -1,6 +1,6 @@
 EndcustomerApi:
   SchadenmeldungEmail:
-    DefaultRecipient: cbcaa94f-e034-4786-9787-81803709d55e@test.com
+    DefaultRecipient: 13ce8b75-bcc8-497e-a971-f9635fd3c635@test.com
   PortalFrontend:
     ActivationUrl: http://localhost/EndkundenPortal/activate?activationToken={activationToken}
     ClientId: dev-portal
@@ -9,3 +9,5 @@ EndcustomerApi:
 MailSettings:
   Username: test
   Password: __ENC__:RSA-OAEP+SHA-1:u06slFrvUzCnz//MJGnkf3mroHvfqNKQboEBOeiXmz3XUJZj9uPoBc+nO8ZE15qwmIGr0CsnRWgzYfkFH1V3PAuJ2RayiZtMBS+Nbv6+E6akA6MXKbIeUlU8Ubbl7sAz2vMMYtqYFGyWuoVaiQmhif4TNehcM1IQZOFKHSdJNQSPj+XJrNBVb5fMESmkjrIXVkzUYnWmnx10NYHuWQQ5ydxT58mxmS4HgYvmlTeRuRT3mo9/ZtVNGadmvyACg8axpFRnEjjF8AahHTOHjHrMLZMjS42qeaKbBfu5nq/UG0lgUSPnAm8cPksEw57Sm0bD305oIAHSrhyVp9twKysVRg==
+TestSection:
+  DummyProperty: dummyValue
